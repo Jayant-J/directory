@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "78066011417",
+    "project_id": "directory-be1b7",
+    "storage_bucket": "directory-be1b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78066011417:android:a3d30ebab11a258c084988",
+        "android_client_info": {
+          "package_name": "com.patni.directory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78066011417-6jvmsar65k5vsthae6g3tu17mdvr636v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9Kdf5Gk_DHlXfPCDmPHBXjBCwiKcKgNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78066011417-6jvmsar65k5vsthae6g3tu17mdvr636v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
