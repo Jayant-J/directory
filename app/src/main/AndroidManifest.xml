@@ -15,8 +15,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Directory"
         android:usesCleartextTraffic="true">
-        <activity android:name=".SavedActivity"></activity>
-        <activity android:name=".NewsActivity" />
         <activity android:name=".ContactUsActivity" />
         <activity android:name=".AboutAppActivity" />
         <activity android:name=".HomeActivity" />
